@@ -1,0 +1,17 @@
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\bin\Debug\net8.0-windows\ControlDeVentas.exe
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\bin\Debug\net8.0-windows\ControlDeVentas.deps.json
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\bin\Debug\net8.0-windows\ControlDeVentas.runtimeconfig.json
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\bin\Debug\net8.0-windows\ControlDeVentas.dll
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\bin\Debug\net8.0-windows\ControlDeVentas.pdb
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.Form1.resources
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.csproj.GenerateResource.cache
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.dll
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\refint\ControlDeVentas.dll
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.pdb
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.genruntimeconfig.cache
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ref\ControlDeVentas.dll
+C:\Users\VICTOR\Desktop\C# PROYECTOS\ControlDeVentas\ControlDeVentas\obj\Debug\net8.0-windows\ControlDeVentas.Properties.Resources.resources

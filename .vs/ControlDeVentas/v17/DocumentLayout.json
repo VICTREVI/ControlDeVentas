@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VICTOR\\Desktop\\C# PROYECTOS\\ControlDeVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{251C56DA-1100-4E19-9042-21E0BE68A9B9}|ControlDeVentas\\ControlDeVentas.csproj|c:\\users\\victor\\desktop\\c# proyectos\\controldeventas\\controldeventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{251C56DA-1100-4E19-9042-21E0BE68A9B9}|ControlDeVentas\\ControlDeVentas.csproj|solutionrelative:controldeventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251C56DA-1100-4E19-9042-21E0BE68A9B9}|ControlDeVentas\\ControlDeVentas.csproj|c:\\users\\victor\\desktop\\c# proyectos\\controldeventas\\controldeventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251C56DA-1100-4E19-9042-21E0BE68A9B9}|ControlDeVentas\\ControlDeVentas.csproj|solutionrelative:controldeventas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251C56DA-1100-4E19-9042-21E0BE68A9B9}|ControlDeVentas\\ControlDeVentas.csproj|c:\\users\\victor\\desktop\\c# proyectos\\controldeventas\\controldeventas\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251C56DA-1100-4E19-9042-21E0BE68A9B9}|ControlDeVentas\\ControlDeVentas.csproj|solutionrelative:controldeventas\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\C# PROYECTOS\\ControlDeVentas\\ControlDeVentas\\Ventas.cs",
+              "RelativeDocumentMoniker": "ControlDeVentas\\Ventas.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\C# PROYECTOS\\ControlDeVentas\\ControlDeVentas\\Ventas.cs",
+              "RelativeToolTip": "ControlDeVentas\\Ventas.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:32:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\C# PROYECTOS\\ControlDeVentas\\ControlDeVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlDeVentas\\Form1.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\C# PROYECTOS\\ControlDeVentas\\ControlDeVentas\\Form1.cs",
+              "RelativeToolTip": "ControlDeVentas\\Form1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwE4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:03:51.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\C# PROYECTOS\\ControlDeVentas\\ControlDeVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlDeVentas\\Form1.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\C# PROYECTOS\\ControlDeVentas\\ControlDeVentas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlDeVentas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:39:13.889Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
